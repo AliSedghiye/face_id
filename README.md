@@ -1,5 +1,5 @@
 # face_id
-this app is a face recognition app for face id usage.
+this app is a face recognition app for face id usage. <br />
 use `http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf` book for reference  <br />
 <br />
 <br />
